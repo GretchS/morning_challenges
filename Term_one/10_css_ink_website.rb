@@ -1,0 +1,2 @@
+# The Company has a new product range, ink and toner cartridges. These products are a little different from what is usually sold, so a new website is needed.
+# Your boss wants you to build a static website with a home page, a products page and a contact form on a separate page that will help sell the products (therefore it needs to look good).
